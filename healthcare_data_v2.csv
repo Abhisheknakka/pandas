@@ -1,0 +1,21 @@
+appointment_id,patient_id,name,age,gender,weight,height,blood_pressure,cholesterol,diabetes,heart_disease,smoking_status,appointment_date,doctor_id,diagnosis
+1,1,John Doe,45,M,78,175,120/80,190,No,No,Former,2023/07/23,101,Hypertension
+2,2,Jane Smith,34,F,65,162,130/85,170,Yes,No,Never,07-22-2023,102,Type 2 Diabetes
+3,3,Mary Johnson,60,F,70,160,140/90,200,Yes,Yes,Current,2023.07.21,103,Coronary Artery Disease
+4,4,James Williams,50,M,85,180,150/95,210,No,Yes,Current,2023-07-20,104,Hypertension
+5,5,Patricia Brown,29,F,55,158,115/75,160,No,No,Never,07/19/2023,105,Hyperlipidemia
+6,6,Robert Jones,65,M,90,170,155/100,230,Yes,Yes,Former,2023.07.18,106,Heart Failure
+7,7,Michael Garcia,40,M,82,178,125/80,185,No,No,Current,07-17-2023,107,Atrial Fibrillation
+8,8,Linda Martinez,55,F,68,165,135/85,195,Yes,No,Former,2023/07/16,108,Chronic Kidney Disease
+9,9,Elizabeth Anderson,38,F,62,160,110/70,180,No,No,Never,07/15/2023,109,Hypothyroidism
+10,10,William Thomas,47,M,75,175,145/90,220,Yes,Yes,Current,2023.07.14,110,Hypertension
+11,11,Karen White,52,F,69,165,130/80,175,No,Yes,Former,07/13/2023,111,Osteoarthritis
+12,12,David Harris,36,M,80,180,120/70,180,No,No,Never,2023/07/12,112,Asthma
+13,13,Nancy Clark,61,F,72,160,140/85,205,Yes,Yes,Current,2023.07.11,113,Chronic Obstructive Pulmonary Disease
+14,14,Richard Lewis,49,M,88,178,150/90,215,No,No,Former,2023-07-10,114,Hypertension
+15,15,Sandra Walker,33,F,67,162,110/65,170,No,No,Never,07/09/2023,115,Anemia
+16,16,Joseph Hall,58,M,92,175,160/100,225,Yes,Yes,Current,2023/07/08,116,Diabetes Type 1
+17,17,Donna Allen,46,F,75,168,135/80,185,No,No,Never,07-07-2023,117,Rheumatoid Arthritis
+18,18,Charles Young,41,M,86,177,125/75,190,No,No,Former,2023.07.06,118,Hyperlipidemia
+19,19,Emily Hernandez,39,F,64,159,120/80,180,No,No,Current,07-05-2023,119,Hypertension
+20,20,George King,54,M,77,174,145/85,210,Yes,No,Never,2023/07/04,120,Coronary Artery Disease
